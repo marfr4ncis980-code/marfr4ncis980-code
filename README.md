@@ -32,9 +32,15 @@ Estou usando o GitHub para organizar meu código, acompanhar minha evolução e 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marfr4ncis980-code&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marfr4ncis980-code&layout=compact&theme=tokyonight&hide_border=true)
+<img src="./assets/github-profile.svg" alt="GitHub Profile" width="700">
+
+<br><br>
+
+<img src="./assets/technologies.svg" alt="Tecnologias e Projetos" width="700">
+
+</div>
 
 </div>
 
