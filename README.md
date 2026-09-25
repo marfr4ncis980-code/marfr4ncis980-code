@@ -46,8 +46,14 @@ Estou usando o GitHub para organizar meu código, acompanhar minha evolução e 
 
 ### Desenvolvimento Web
 
-![Web Development](https://img.shields.io/badge/Desenvolvimento%20Web-181717?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logo=lovable&logoColor=white)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Ferramentas
 
