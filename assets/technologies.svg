@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" viewBox="0 0 700 180">
+<rect width="700" height="180" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="698" height="178" rx="17" fill="none" stroke="#30363d"/>
+<text x="35" y="55" fill="#a371f7" font-family="Arial, sans-serif" font-size="28" font-weight="700">💻 Tecnologias &amp; Projetos</text>
+<text x="35" y="94" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="19">Este espaço será atualizado conforme</text>
+<text x="35" y="122" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="19">novos projetos e tecnologias forem adicionados.</text>
+<text x="35" y="153" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">🚀 Em desenvolvimento</text>
+</svg>
